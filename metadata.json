@@ -1,0 +1,6 @@
+{
+  "name": "QuickPulse: Quick-Commerce Operations & Supply Chain Analytics",
+  "description": "Comprehensive quick-commerce dark store operations analytics, root-cause decomposition, SQL engine, Prophet demand forecasting, inventory safety stock optimizer, and NL-to-SQL intelligence agent.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
